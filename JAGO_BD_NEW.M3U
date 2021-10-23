@@ -158,10 +158,27 @@ http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Groups", SONY
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups", COLORS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups", COLORS_HD
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
-
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",STAR_JALSHA_HD
+http://103.81.104.118/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",ZEE_BANGLA_HD
 http://103.81.104.118/hls/zeebanglahd.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",ZEE_BANGLA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",TRAVEL_XP_HD
 http://103.81.104.118/hls/travelxp.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",SUN_BANGLA_HD
+http://103.81.104.118/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",SANGEET_BANGLA_HD
+http://103.81.104.118/hls/sangitbangla.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",ENTER10_HD_HD
+http://103.81.104.118/hls/enterr10.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",JALSHA_MOVIES_HD
+http://103.81.104.118/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",COLORS_BANGLA_HD
+http://103.81.104.118/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",STAR_GOLD_HD
+http://103.81.104.118/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",ZOOM_HD
+http://103.81.104.118/hls/zoom.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Groups",9XM_HD
+http://103.81.104.118/hls/9xm.m3u8
